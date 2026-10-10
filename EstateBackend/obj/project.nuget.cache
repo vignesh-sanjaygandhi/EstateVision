@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HtPJz6A3pX0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vignesh S\\Projects\\EstateVision\\EstateBackend\\EstateBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vignesh S\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\Vignesh S\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
